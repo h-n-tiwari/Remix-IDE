@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "loop",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Demo12.sol": "whileLoop"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Demo12.sol": {
+			"keccak256": "0x9cee0240ef53ffa9bcc87fcc929e0f7d3aedb4c959a070d577a91bd879a059fe",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0440bc356bbdd956b7707c5c20592e3211107dfd22565dc152442f3cb5474e3f",
+				"dweb:/ipfs/Qmd52Gx2YzhjHwUkK6rt5EcyhPyxWvGDzDs135jcXAN3hU"
+			]
+		}
+	},
+	"version": 1
+}
